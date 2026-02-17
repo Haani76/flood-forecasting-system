@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 #  Real-Time Flood Forecasting System
 
 A production-ready hydrological modeling system combining physics-based (GR4J) and machine learning (XGBoost) approaches for streamflow prediction.
