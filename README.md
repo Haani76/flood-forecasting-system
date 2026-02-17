@@ -110,6 +110,7 @@ streamlit run dashboard/app.py
 - Climatology and anomaly calculations
 
 ### Interactive Dashboard
+-Dashboard Link: [https://flood-forecasting-system-guj7kmtw4r6zqxndspxue8.streamlit.app/]
 - Real-time model comparison
 - Interactive time series plots
 - Parameter visualization
