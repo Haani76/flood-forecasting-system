@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Flood Forecasting System", layout="wide")
 
 # Title
-st.title(" Real-Time Flood Forecasting System")
+st.title(" Basin-Scale Hydrological Simulation System")
 st.markdown("**Basin-scale Hydrological Model with ML Enhancement**")
 
 # Sidebar
@@ -177,4 +177,4 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.markdown("**Hydrological Modeling Project** | GR4J + XGBoost | 2005-2014")
+st.markdown("**Basin-Scale Hydrological Simulation & Validation** | GR4J + XGBoost | 2005-2014")
